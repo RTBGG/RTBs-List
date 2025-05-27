@@ -1,0 +1,2 @@
+||google.com^$removeparam=zx
+||google.com^$removeparam=no_sw_cr
