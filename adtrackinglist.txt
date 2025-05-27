@@ -1,2 +1,4 @@
 ||google.com^$removeparam=zx
 ||google.com^$removeparam=no_sw_cr
+google.com##a[href*="google.com/?zx="]
+google.com##a[href*="google.com/?no_sw_cr="]
